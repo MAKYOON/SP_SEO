@@ -9,7 +9,7 @@ main {
 }
 
 #background {
-  background-image: url("../Assets/Images/background_formaunivstraslpdwca21.jpg");
+  background-image: url("../Assets/Images/background-formaunivstraslpdwca21.jpg");
   height: 50vh;
   width: 100%;
   background-size: cover;
@@ -29,5 +29,9 @@ figcaption {
   background-color: black;
   width: 100%;
   color: white;
+}
+
+p {
+  font-size: 1.5rem;
 }
 
